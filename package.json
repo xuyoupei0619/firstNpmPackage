@@ -1,0 +1,25 @@
+{
+  "name": "shang-utils",
+  "version": "1.0.0",
+  "description": "common toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyoupei0619/firstNpmPackage.git"
+  },
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "author": "Doreen0133",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuyoupei0619/firstNpmPackage/issues"
+  },
+  "homepage": "https://github.com/xuyoupei0619/firstNpmPackage#readme"
+}
